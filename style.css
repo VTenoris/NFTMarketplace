@@ -1,0 +1,9 @@
+li {
+    float: left;
+    margin-left: 100px;
+}
+
+body {
+    background: rgb(138,31,29);
+    background: linear-gradient(198deg, rgba(138,31,29,1) 0%, rgba(246,160,154,1) 100%, rgba(0,212,255,1) 100%); 
+}
